@@ -1,1 +1,1 @@
-![pizarron](./pizarron.png)
+![Enlace al pizarrón](https://www.tldraw.com/p/GJux6YF1V4UGoU7aRHVNf?d=v2974.603.656.318.BpnlXwlE63RNSaabqG7t3)
