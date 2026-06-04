@@ -1,5 +1,3 @@
-[Pizarrón con la resolución de la actividad integradora](https://www.tldraw.com/p/U_mlr7FIwc0kl31NflrOT?d=v-3323.-394.8121.3836.QujU54mn53hwoWvnH9IZc)
-
 # Actividad: datos abiertos con Python, pandas y Google Colab
 
 ## Objetivo
