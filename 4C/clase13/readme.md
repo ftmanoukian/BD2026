@@ -1,0 +1,1 @@
+[Enlace al pizarrón](https://www.tldraw.com/p/EQIrFv_FgxltoTfXO7FkW?d=v1933.13.1324.647.WGq0k5v5jX686nd2hvyNX)
