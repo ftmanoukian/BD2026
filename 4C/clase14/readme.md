@@ -77,14 +77,6 @@ La función debe devolver una lista con tres datos:
 2. la superficie total de la caja;
 3. la suma total de las aristas.
 
-Para una caja rectangular:
-
-```python
-volumen = largo * ancho * alto
-superficie = 2 * (largo * ancho + largo * alto + ancho * alto)
-aristas = 4 * (largo + ancho + alto)
-```
-
 Ejemplo:
 
 ```python
@@ -128,6 +120,7 @@ Las unidades posibles son:
 - `"cm"`
 - `"m"`
 - `"km"`
+- `"millas"`
 
 La función debe convertir el valor desde la unidad de origen hacia la unidad de destino.
 
