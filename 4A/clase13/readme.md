@@ -1,3 +1,7 @@
+# Clases 13-14
+
+[Enlace al pizarrón 25/06/26](https://www.tldraw.com/p/GJux6YF1V4UGoU7aRHVNf?d=v-75.-88.1401.781.gG8bCVT_eGYHm4mW_pMI-)
+
 # Simulacro de examen - Python
 
 ## Ejercicio 1
