@@ -22,9 +22,10 @@ while True:
   dificultad      = input("Ingresá el nivel de dificultad deseado ('alto'/'medio'/'bajo'): ")
   inicial         = input("Ingresá qué jugador debe arrancar ('jugador'/'maquina'/'aleatorio'): ")
 
-  jugar_tateti(nombre_usuario, dificultad, inicial)
+  resultado_partida = jugar_tateti(nombre_usuario, dificultad, inicial)
 
   # Acá tenemos que mostrar un scoreboard! ¿cómo lo hacemos?
+  # Los resultados de la partida se encuentran en el diccionario 'resultado_partida'
 
   continuar = input("Presioná 'x' y enter para finalizar, o cualquier cosa para continuar: ")
   if continuar.lower() == 'x':
