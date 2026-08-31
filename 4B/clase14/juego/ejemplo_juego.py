@@ -20,7 +20,7 @@ from tateti_lib import jugar_tateti
 while True:
   nombre_usuario  = input("Ingresá tu nombre: ").strip()
   dificultad      = input("Ingresá el nivel de dificultad deseado ('alto'/'medio'/'bajo'): ")
-  inicial         = input("Ingresá qué jugador debe arrancar ('jugador'/'maquina'/'aleatorio'): ")
+  inicial         = input("Ingresá qué jugador debe arrancar ('usuario'/'maquina'/'aleatorio'): ")
 
   resultado_partida = jugar_tateti(nombre_usuario, dificultad, inicial)
 
